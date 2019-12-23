@@ -1,0 +1,31 @@
+{
+  "result": {
+	"item": "roughtweaks:bandage"
+  },
+  "pattern": [
+	"gpg",
+    "cwc",
+    "gpg"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "g": {
+		"item": "minecraft:gold_ingot"
+    },
+	"p": {
+		"item": "minecraft:paper"
+    },
+	"c": {
+		"item": "minecraft:clay_ball"
+    },
+	"w": {
+		"item": "minecraft:wool",
+		"data": 32767
+    }
+  },
+  "conditions": [
+	{
+		"type": "roughtweaks:EnableBandage"
+	}
+  ]
+}

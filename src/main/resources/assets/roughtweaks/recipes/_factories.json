@@ -1,0 +1,9 @@
+{
+    "conditions": {
+        "EnableSalve": "lellson.roughTweaks.misc.factories.FactorySalve",
+		"EnablePlaster": "lellson.roughTweaks.misc.factories.FactoryPlaster",
+		"EnableBandage": "lellson.roughTweaks.misc.factories.FactoryBandage",
+		"EnableMedikit": "lellson.roughTweaks.misc.factories.FactoryMedikit",
+		"EnableMedikitEnchanted": "lellson.roughTweaks.misc.factories.FactoryMedikitEnchanted"
+    }
+}

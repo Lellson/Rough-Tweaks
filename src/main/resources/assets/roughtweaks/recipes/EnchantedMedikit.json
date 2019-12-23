@@ -1,0 +1,23 @@
+{
+  "result": {
+      "item": "roughtweaks:medikitEnchanted"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+        "item": "roughtweaks:medikit"
+	},
+	{
+        "item": "minecraft:golden_apple",
+		"data": 32767
+	},
+	{
+        "item": "minecraft:ghast_tear"
+	}
+  ],
+  "conditions": [
+	{
+		"type": "roughtweaks:EnableMedikitEnchanted"
+	}
+  ]
+}

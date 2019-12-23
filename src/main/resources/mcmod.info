@@ -1,0 +1,16 @@
+[
+{
+  "modid": "roughtweaks",
+  "name": "Rough Tweaks",
+  "description": "Adds a bit of extra difficulty",
+  "version": "1.0",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lellson"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

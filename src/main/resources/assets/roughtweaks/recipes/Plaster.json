@@ -1,0 +1,31 @@
+{
+  "result": {
+	"item": "roughtweaks:plaster"
+  },
+  "pattern": [
+	"fsf",
+    "pwp",
+    "fsf"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "s": {
+		"item": "minecraft:slime_ball"
+    },
+	"f": {
+		"item": "minecraft:string"
+    },
+	"p": {
+		"item": "minecraft:paper"
+    },
+	"w": {
+		"item": "minecraft:wool",
+		"data": 32767
+    }
+  },
+  "conditions": [
+	{
+		"type": "roughtweaks:EnablePlaster"
+	}
+  ]
+}

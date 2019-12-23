@@ -1,0 +1,33 @@
+{
+  "result": {
+	"item": "roughtweaks:medikit"
+  },
+  "pattern": [
+	"qnq",
+    "spb",
+    "qnq"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "q": {
+		"item": "minecraft:quartz"
+    },
+	"n": {
+		"item": "minecraft:nether_wart"
+    },
+	"s": {
+		"item": "roughtweaks:salve"
+    },
+	"p": {
+		"item": "roughtweaks:plaster"
+    },
+	"b": {
+		"item": "roughtweaks:bandage"
+    }
+  },
+  "conditions": [
+	{
+		"type": "roughtweaks:EnableMedikit"
+	}
+  ]
+}

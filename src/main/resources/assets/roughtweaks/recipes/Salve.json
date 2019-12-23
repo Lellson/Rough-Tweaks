@@ -1,0 +1,33 @@
+{
+  "result": {
+      "item": "roughtweaks:salve"
+  },
+  "type": "forge:ore_shapeless",
+  "ingredients": [
+    {
+        "item": "minecraft:bowl"
+	},
+	{
+        "item": "minecraft:wheat_seeds"
+	},
+	{
+        "item": "minecraft:yellow_flower",
+		"data": 32767
+	},
+	{
+        "item": "minecraft:red_flower",
+		"data": 32767
+	},
+	{
+        "item": "minecraft:cactus"
+	},
+	{
+        "item": "minecraft:vine"
+	}
+  ],
+  "conditions": [
+	{
+		"type": "roughtweaks:EnableSalve"
+	}
+  ]
+}
